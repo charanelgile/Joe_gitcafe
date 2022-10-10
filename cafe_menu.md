@@ -12,5 +12,5 @@
 	- [Ethiopian Buna](./recipes/Ethiopian-Buna.txt)
 - Iced
 	- [Indonesian Avocado Coffee](./recipes/Indonesian-Avocado-Coffee.txt)
-	- [Italian Cream Iced Coffee](./recipes/Italiam-Cream-Iced-Coffee.txt)
+	- [Italian Cream Iced Coffee](./recipes/Italian-Cream-Iced-Coffee.txt)
 	- [Iced Tea](./recipes/Iced-Tea.txt)
