@@ -1,0 +1,10 @@
+.log
+.temp
+.o
+.pyc
+.class
+.DS_Store
+/bin
+/out
+/target
+/packages
